@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="device/lge/l70pn" name="geekydoc/android_device_l70pn" remote="github" revision="master" />
+	<project path="device/lge/l70pn" name="bartbart2003/android_device_l70pn" remote="github" revision="pacrom-5.1" />
 	<project path="device/lge/l70pds" name="geekydoc/android_device_l70pds" remote="github" revision="master" />
 	<project path="device/lge/msm8610-common" name="geekydoc/android_device_lge_msm8610-common" remote="github" revision="cm-12.1" />
 	<project path="vendor/lge/l70pn" name="geekydoc/proprietary_vendor_lge_l70pn" remote="github" revision="master" />
